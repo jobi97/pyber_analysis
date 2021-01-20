@@ -1,0 +1,6 @@
+# pyber_analysis
+Overview:
+We were tasked with analyzing total weekly fares collected by pyber based on city types (rural, urban, and suburban) during the span of four months in 2019.  This was done using pandas and matplotlib programing to build dataframes and chart the results of extensive analysis.  
+
+Results: 
+After analyzing the information provided, it was found that the less densely populated the area (rural or suburban), the less drivers there are.  In turn that produces less rides.  Considering that there are less drivers, the average cost per ride is much more expensive in the less densely populated areas.  
